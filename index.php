@@ -10,6 +10,9 @@
         echo "Hello World";
         echo "Hey there"
         echo "Hey"
+        echo "Hello World";
+        echo "Hey there"
+        echo "Hey"
 
     ?>
 </body>
