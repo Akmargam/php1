@@ -8,11 +8,7 @@
 <body>
     <?php
         echo "Hello World";
-        echo "Hey there"
-        echo "Hey"
-        echo "Hello World";
-        echo "Hey there"
-        echo "Hey"
+        echo "What's up?";
 
     ?>
 </body>
