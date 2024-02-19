@@ -7,22 +7,27 @@
 </head>
 <body>
     <?php
-        $completed=true;
-        $score=99;
-        $price=0.99;
-        $greet='hi';
+        // $completed=true;
+        // $score=99;
+        // $price=0.99;
+        // $greet='hi';
 
-        echo $completed . '<br/>';
-        var_dump($greet).'<br/>';
-        $companies=[1,2,3,4,5] ;
-        print_r($companies);
+        // echo $completed . '<br/>';
+        // var_dump($greet).'<br/>';
+        // $companies=[1,2,3,4,5] ;
+        // print_r($companies);
 
-        // arrays
+        // // arrays
 
-        $progLang=['PHP','Python','Java'];
-        echo $progLang[2];
+        // $progLang=['PHP','Python','Java'];
+        // echo $progLang[2];
 
-        //operators
+        // //operators
+
+        $x=15;
+        $y=15;
+
+        var_dump($x<=>$y);
     ?>
 </body>
 </html>
